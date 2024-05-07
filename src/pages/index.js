@@ -11,7 +11,7 @@ function HomepageHeader() {
   return (
     <header className={styles.heroBanner}>
       <div className={styles.text}>Documentation for the Expense Tracker App</div>
-      <a href="./" alt="">
+      <a href="https://expense-tracker-app-virid.vercel.app/" alt="" target='_blank'>
         <button className={styles.btn}>GO TO THE APP</button>
       </a>
     </header>
