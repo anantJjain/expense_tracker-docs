@@ -29,9 +29,9 @@ For handling the date and time based calculations and I have used [Moment.js](ht
 First the ```useEffect()``` hook runs during the initial page load and runs the following functions asynchronously to set the corresponding dates,number of transactions and color intensity to each block : 
  Function | Description |
 |-|-|
-|[```setDateWiseTransactions()```](./05-Color%20Intensities.md#setdatewisetransactions) | Sets number of transactions corresponding to each date |
-|[```setDates()```](./06-Dates.md#setdates) |  Sets corresponding dates of each block |
-|[```setColor()```](./05-Color%20Intensities.md#setcolor) | Sets hsl() values of each block |
+|[```setDateWiseTransactions()```](./04-Color%20Intensities.md#setdatewisetransactions) | Sets number of transactions corresponding to each date |
+|[```setDates()```](./05-Dates.md#setdates) |  Sets corresponding dates of each block |
+|[```setColor()```](./04-Color%20Intensities.md#setcolor) | Sets hsl() values of each block |
 |[```calcTotalSpending()```](#calctotalspending) | Calculate the total debit and credit in last year |
 
 ## calcTotalSpending()

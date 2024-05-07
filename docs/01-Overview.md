@@ -12,7 +12,7 @@ This is a react app that represents a github contribution heatmap like calender 
 - **Testing** : React Testing Library,Jest 
 ## Local development
 ***
-- Clone the repository from this [link](./01-Overview.md).
+- Clone the repository from this [link](https://github.com/anantJjain/expense-tracker).
 - Open it in a code editor of your choice.
 - In the terminal (inside the root directory) type ```npm start``` to spin up the local development server at ```localhost:3000```  
 ## Testing 
